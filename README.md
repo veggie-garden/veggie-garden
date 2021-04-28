@@ -1,5 +1,14 @@
 ### Hi there 👋
 
+## Hey 👋, This is veggie-garden
+[![Gmail Badge](https://img.shields.io/badge/-chelseaseo7@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:chelseaseo7@gmail.com)](mailto:chelseaseo7@gmail.com) [![Github Badge](https://img.shields.io/badge/-veggiegarden-grey?style=flat&logo=github&logoColor=white&link=https://github.com/veggiegarden/)](https://www.github.com/veggiegarden/) [![Portfolio Badge](https://img.shields.io/badge/portfolio-web-blue?style=flat&link=https://github.com/veggie-garden/)](https://github.com/veggie-garden/) 
+## Some of my Github Stats
+<p align=left> <img src=https://komarev.com/ghpvc/?username=veggiegarden alt=veggiegarden /> </p>
+
+[![Github stats](https://github-readme-stats.vercel.app/api?username=veggiegarden&show_icons=true&include_all_commits=true)](https://github.com/veggiegarden/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=veggiegarden&layout=compact)](https://github.com/veggiegarden/github-readme-stats)
+
+
 <!--
 **veggie-garden/veggie-garden** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
