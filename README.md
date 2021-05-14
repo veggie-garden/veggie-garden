@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 ## Hey 👋, This is veggie-garden
-[![Gmail Badge](https://img.shields.io/badge/-chelseaseo7@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:chelseaseo7@gmail.com)](mailto:chelseaseo7@gmail.com) [![Github Badge](https://img.shields.io/badge/-veggiegarden-grey?style=flat&logo=github&logoColor=white&link=https://github.com/veggiegarden/)](https://www.github.com/veggiegarden/) [![Portfolio Badge](https://img.shields.io/badge/portfolio-web-blue?style=flat&link=https://github.com/veggie-garden/)](https://github.com/veggie-garden/) 
+[![Gmail Badge](https://img.shields.io/badge/-devcseo@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:devcseo@gmail.com)](mailto:devcseo@gmail.com) [![Github Badge](https://img.shields.io/badge/-veggiegarden-grey?style=flat&logo=github&logoColor=white&link=https://github.com/veggiegarden/)](https://www.github.com/veggiegarden/) [![Portfolio Badge](https://img.shields.io/badge/portfolio-web-blue?style=flat&link=https://github.com/veggie-garden/)](https://github.com/veggie-garden/) 
 ## Some of my Github Stats
 <p align=left> <img src=https://komarev.com/ghpvc/?username=veggiegarden alt=veggiegarden /> </p>
 
