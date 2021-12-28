@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-## Not the greatest, but happiest
 [![Gmail Badge](https://img.shields.io/badge/-devcseo@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:devcseo@gmail.com)](mailto:devcseo@gmail.com) 
 [![Github Badge](https://img.shields.io/badge/-veggie--garden-grey?style=flat&logo=github&logoColor=white&link=https://github.com/veggie-garden/)](https://www.github.com/veggie-garden/) 
 <!-- [![Portfolio Badge](https://img.shields.io/badge/portfolio-web-blue?style=flat&link=https://github.com/veggie-garden/)](https://github.com/veggie-garden/)  -->
