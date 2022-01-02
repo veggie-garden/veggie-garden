@@ -9,14 +9,14 @@
 <!-- [![Portfolio Badge](https://img.shields.io/badge/portfolio-web-blue?style=flat&link=https://github.com/veggie-garden/)](https://github.com/veggie-garden/)  -->
 
 ## About me
-- 🌱 I’m currently learning front-end languages
+- 🌱 I’m currently learning front-end skills
 <!-- - ⚡ Fun fact: I can sleep more than 12 hours straight -->
 
 ## Some of my Github Stats
 
-[![Github stats](https://github-readme-stats.vercel.app/api?username=veggie-garden&show_icons=true&include_all_commits=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)](https://github.com/veggie-garden/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=veggie-garden&layout=compact)](https://github.com/veggie-garden/github-readme-stats)  
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=mm9176715)](https://solved.ac/mm9176715)
+[![Github stats](https://github-readme-stats.vercel.app/api?username=veggie-garden&show_icons=true&include_all_commits=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)](https://github.com/veggie-garden/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=veggie-garden&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)](https://github.com/veggie-garden/github-readme-stats)  
 [![veggie's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=veggie_garden)](https://github.com/veggie_garden/github-readme-stats)
 
 <!--
