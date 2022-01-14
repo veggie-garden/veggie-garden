@@ -18,6 +18,8 @@
 
 #### ⏲️ Work Stats
 [![veggie's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=veggie_garden)](https://wakatime.com/@veggie_garden)
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 #### 🛠️ Github Stats
 <p>
