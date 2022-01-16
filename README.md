@@ -63,8 +63,8 @@ Git Config               0 secs              ░░░░░░░░░░░�
 
 #### 🛠️ Github Stats
 <p>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=veggie-garden&show_icons=true&include_all_commits=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=veggie-garden&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff">
+  <img height="180em" src="https://github-readme-stats-veggie-garden.vercel.app/api?username=veggie-garden&show_icons=true&include_all_commits=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff">
+  <img height="180em" src="https://github-readme-stats-veggie-garden.vercel.app/api/top-langs/?username=veggie-garden&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff">
 </p>
 <!-- [![Github stats](https://github-readme-stats.vercel.app/api?username=veggie-garden&show_icons=true&include_all_commits=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)](https://github.com/veggie-garden/github-readme-stats) 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=veggie-garden&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)](https://github.com/veggie-garden/github-readme-stats)   -->
