@@ -2,8 +2,8 @@ name: Waka Readme
 
 on:
   schedule:
-    # Runs at 12am IST
-    - cron: '30 18 * * *'
+    # Runs at 12am KST
+    - cron: '00 15 * * *'
   workflow_dispatch:
 jobs:
   update-readme:
@@ -23,4 +23,5 @@ jobs:
           SHOW_LINES_OF_CODE: "False"
           SHOW_PROFILE_VIEWS: "False"
           SHOW_TOTAL_CODE_TIME: "False"
+          SHOW_UPDATED_DATE: "False"
           COMMIT_MESSAGE: "Updated with Waka Readme"
