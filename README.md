@@ -14,7 +14,7 @@
 <!-- - ⚡ Fun fact: I can sleep more than 12 hours straight -->
 
 #### 🎖️ Ranking
-[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=mm9176715)](https://solved.ac/mm9176715)
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=mm9176715)](https://solved.ac/profile/mm9176715)
 
 #### ⏲️ Work Stats
 <!-- [![veggie's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=veggie_garden)](https://wakatime.com/@veggie_garden) -->
