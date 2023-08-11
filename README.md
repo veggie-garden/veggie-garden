@@ -10,7 +10,7 @@
 [![cheseo's 42 stats](https://badge42.vercel.app/api/v2/cl60mftnf000609mv65leer9m/stats?cursusId=21&coalitionId=86)](https://github.com/JaeSeoKim/badge42)
 
 ## 💬 About me
-- 🌱 I’m currently learning front-end skills
+- 🌱 I’m 42seoul student
 - ❤️ I love to code and read
 <!-- - ⚡ Fun fact: I can sleep more than 12 hours straight -->
 
