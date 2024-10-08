@@ -48,7 +48,7 @@ Sunday                   95 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-C                        13 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 
