@@ -21,6 +21,36 @@
 <!-- [![veggie's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=veggie_garden)](https://wakatime.com/@veggie_garden) -->
 
 <!--START_SECTION:waka-->
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                74 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.61 % 
+🌆 Daytime                257 commits         ███████░░░░░░░░░░░░░░░░░░   26.44 % 
+🌃 Evening                475 commits         ████████████░░░░░░░░░░░░░   48.87 % 
+🌙 Night                  166 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.08 % 
+```
+📅 **I'm Most Productive on Monday** 
+
+```text
+Monday                   202 commits         █████░░░░░░░░░░░░░░░░░░░░   20.78 % 
+Tuesday                  169 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.39 % 
+Wednesday                159 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.36 % 
+Thursday                 170 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.49 % 
+Friday                   89 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.16 % 
+Saturday                 105 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.80 % 
+Sunday                   78 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.02 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Seoul
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+```
+
 
 <!--END_SECTION:waka-->
 
